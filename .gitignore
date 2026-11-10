@@ -1,0 +1,17 @@
+__pycache__/
+*.pyc
+.env
+.phishguard.db
+.venv/
+backend/.venv/
+frontend/node_modules/
+frontend/dist/
+.DS_Store
+
+node_modules/
+frontend/node_modules/
+backend/venv/
+backend/.venv/
+__pycache__/
+*.pyc
+.env
